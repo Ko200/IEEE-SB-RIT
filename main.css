@@ -1,0 +1,93 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: gray;
+    font-weight: bold;
+    font-size: 1.1rem;
+    
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    color: blue;
+    
+    
+}
+.navbar-margin-top
+{
+    margin-top: -20px;
+    background: 
+}
+
+.marginleft-navbar
+{
+    margin-left: 40%;
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 10rem;
+    padding: .5rem 0;
+    margin: .125rem 0 0;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    list-style: none;
+    font-weight: bold;
+   
+    background-color: #fff;
+    background-clip: padding-box;
+    
+}
+
+
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: .25rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #808080;
+    font-weight: bold;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: transparent;
+}
+.dropdown-item:hover{
+    background-color: #080263;
+    color: white;
+}
+.landing-img
+{
+    margin-left: 10%;
+}
+.bold
+{
+    font-weight: bold;
+}
+.btn-joinieee
+{
+    background: #080263;
+    color: white;
+    border-radius: 40px;
+    width: 200px;
+}    
+.btn-joinieee:hover
+{
+    color: white
+}
+.home-margin-top
+{
+    margin-top: 110px;
+}
+.height-adjust
+{
+    height: 65px;
+    padding-left: 15px;
+    border-left: 1px solid gray;
+}
