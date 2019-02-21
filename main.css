@@ -97,5 +97,18 @@ body{
 }
 
 #strength{
-    background: url("")
+    background: url("./images/strength.jpg");
+    height: 280px;
+    background-size: cover;
+    background-position: 4px;
+}
+.bold-strength{
+    color: white;
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+.number-strength
+{
+   font-size: 1.4rem;
+   color: yellow;
 }
