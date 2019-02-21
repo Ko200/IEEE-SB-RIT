@@ -13,10 +13,14 @@ body{
     
     
 }
+.navbar
+{
+    background: white;
+}
 .navbar-margin-top
 {
     margin-top: -20px;
-    background: 
+
 }
 
 .marginleft-navbar
@@ -90,4 +94,8 @@ body{
     height: 65px;
     padding-left: 15px;
     border-left: 1px solid gray;
+}
+
+#strength{
+    background: url("")
 }
