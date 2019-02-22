@@ -177,3 +177,23 @@ hr{
     font-size: 2rem;
    
 }
+.society-head
+{
+    font-size: 2.8rem;
+}
+.society-more-btn
+{
+    background:darkslategrey;
+    border-radius: 50px;
+    color: lightgray;
+}
+.society-more-btn:hover
+{
+    background:darkslategrey;
+    border-radius: 50px;
+    color: white;
+}
+.text-event-head
+{
+    color: darkslategrey;
+}
