@@ -166,3 +166,14 @@ hr{
 {
     background: lightgrey;
 }
+.ex-img-sb
+{
+    border-radius: 200px;
+    height: 200px;
+}
+
+.ex-head
+{
+    font-size: 2rem;
+   
+}
