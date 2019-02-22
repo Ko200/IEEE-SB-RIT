@@ -96,19 +96,77 @@ body{
     border-left: 1px solid gray;
 }
 
-#strength{
+.bg-img{
     background: url("./images/strength.jpg");
-    height: 280px;
+    
     background-size: cover;
     background-position: 4px;
 }
 .bold-strength{
     color: white;
-    font-size: 2.2rem;
+    font-size: 2.4rem;
     font-weight: bold;
 }
 .number-strength
 {
-   font-size: 1.4rem;
+   font-size: 1.8rem;
    color: yellow;
+   font-weight: bold;
+   border-radius: 800px;
+   background-color: #212529;
+   height: 120px;
+   text-align: center;
+}
+.bg-drak1
+{
+    background: black;
+    height: 300px;
+}
+.inside-mem{
+    position: relative;
+    top: 25px;
+    font-size: 3rem;
+}
+.bg-footer{
+    background:#212529;;
+}
+hr{
+    color: white;
+}
+.fot-clg
+{
+    position: relative;
+    top: ;
+}
+.btm-border
+{
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 8px;
+}
+.abt-clg-detail
+{
+    line-height: 2
+    5px;
+    font-size: 1.12rem;
+}
+.vsn-msn
+{
+    height: 70px;
+    position: relative;
+    left: 60px;
+    top: 35px;
+}
+.text-vsn-msn
+{
+    font-size: 2.3rem;
+    position: relative;
+    top: -20px;
+}
+.head-abt
+{
+    font-size: 1.6rem;
+}
+.bg-light1
+{
+    background: lightgrey;
 }
