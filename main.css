@@ -83,7 +83,9 @@ body{
 }    
 .btn-joinieee:hover
 {
-    color: white
+    color: white;
+    
+    
 }
 .home-margin-top
 {
@@ -111,9 +113,9 @@ body{
 {
    font-size: 1.8rem;
    color: yellow;
-   font-weight: bold;
+   font-weight: bolder;
    border-radius: 800px;
-   background-color: #212529;
+  
    height: 120px;
    text-align: center;
 }
@@ -133,11 +135,7 @@ body{
 hr{
     color: white;
 }
-.fot-clg
-{
-    position: relative;
-    top: ;
-}
+
 .btm-border
 {
     border-bottom: 1px solid lightgray;
@@ -152,9 +150,7 @@ hr{
 .vsn-msn
 {
     height: 70px;
-    position: relative;
-    left: 60px;
-    top: 35px;
+    
 }
 .text-vsn-msn
 {
