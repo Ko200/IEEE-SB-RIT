@@ -32,7 +32,7 @@ body{
     position: absolute;
     top: 100%;
     left: 0;
-    z-index: 1000;
+    z-index: 10000;
     display: none;
     float: left;
     min-width: 10rem;
@@ -43,7 +43,8 @@ body{
     text-align: left;
     list-style: none;
     font-weight: bold;
-   
+    border-radius: 0;
+    border:none;
     background-color: #fff;
     background-clip: padding-box;
     
@@ -63,7 +64,7 @@ body{
     background-color: transparent;
 }
 .dropdown-item:hover{
-    background-color: #080263;
+    background-color: black;
     color: white;
 }
 .landing-img
