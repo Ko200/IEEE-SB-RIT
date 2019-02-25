@@ -113,7 +113,7 @@ body{
 }
 .number-strength
 {
-   font-size: 1.8rem;
+   font-size: 1.9rem;
    color: yellow;
    font-weight: bolder;
    border-radius: 800px;
@@ -128,8 +128,8 @@ body{
 }
 .inside-mem{
     position: relative;
-    top: 25px;
-    font-size: 3rem;
+    top: 10px;
+    font-size: 3.5rem;
 }
 .bg-footer{
     background:#212529;;
