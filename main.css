@@ -169,8 +169,45 @@ hr{
 }
 .ex-img-sb
 {
-    border-radius: 400px;
+    border-radius: 40px 0 40px 0;
     height: 180px;
+    border: 2px solid lightgray;
+    padding: 1px;
+}
+.ex-img-sb-cs
+{
+    border-radius: 40px 0 40px 0;
+    height: 180px;
+    border: 2px solid darkblue;
+    padding: 1px;
+}
+.ex-img-sb-pes
+{
+    border-radius: 40px 0 40px 0;
+    height: 180px;
+    border: 2px solid darkgreen;
+    padding: 1px;
+}
+.ex-img-sb-ras
+{
+    border-radius: 40px 0 40px 0;
+    height: 180px;
+    border: 2px solid darkred;
+    padding: 1px;
+}
+.ex-img-sb-wie
+{
+    border-radius: 40px 0 40px 0;
+    height: 180px;
+    border: 2px solid darkorange;
+    padding: 1px;
+}
+.ex-img-sb-ias
+{
+    border-radius: 40px 0 40px 0;
+    height: 180px;
+    border: 2px solid darkslategrey;
+    padding: 1px;
 }
 
 .ex-head
