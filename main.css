@@ -145,13 +145,12 @@ hr{
 }
 .abt-clg-detail
 {
-    line-height: 2
-    5px;
+    line-height: 25px;
     font-size: 1.12rem;
 }
 .vsn-msn
 {
-    height: 70px;
+    height: 58px;
     
 }
 .text-vsn-msn
@@ -171,7 +170,7 @@ hr{
 .ex-img-sb
 {
     border-radius: 400px;
-    height: 200px;
+    height: 180px;
 }
 
 .ex-head
@@ -202,4 +201,38 @@ hr{
 .color-grey
 {
     color: gray;
+}
+.hr-inner-position
+{   position: relative;
+    top: -30px;
+}
+.hr-inner-position-head
+{   position: relative;
+    top: -15px;
+}
+.hr-inner-position-wie
+{   position: relative;
+    top:2px;
+}
+.hr-inner-position-abt
+{   position: relative;
+    top:-30px;
+}
+.position-text-society
+{
+    position: relative;
+    top: -25px;
+
+}
+.position-text-society-head
+{
+    position: relative;
+    top: -10px;
+
+}
+.position-text-society-wie
+{
+    position: relative;
+    top: 5px;
+
 }
