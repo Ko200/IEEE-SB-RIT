@@ -1,5 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     font-family: 'Nunito', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 .navbar-light .navbar-nav .nav-link {
     color: gray;
@@ -134,9 +140,7 @@ body{
 .bg-footer{
     background:#212529;;
 }
-hr{
-    color: white;
-}
+
 
 .btm-border
 {
@@ -235,4 +239,8 @@ hr{
     position: relative;
     top: 5px;
 
+}
+.marginbtm-footer
+{
+    margin-bottom: 0px;
 }
