@@ -173,9 +173,50 @@ body{
 }
 .ex-img-sb
 {
+<<<<<<< HEAD
     border-radius: 400px;
     border:2px solid ridge;
+=======
+    border-radius: 40px 0 40px 0;
+>>>>>>> 81df112a32d6e7094f44b9583ebf9b789e3c1b80
     height: 180px;
+    border:1px solid lightgray;
+    padding: 3px;
+}
+.ex-img-sb-cs
+{
+    border-radius: 40px 0 40px 0;
+    height: 180px;
+    border: 1px solid lightskyblue;
+    padding: 3px;
+}
+.ex-img-sb-pes
+{
+    border-radius: 40px 0 40px 0;
+    height: 180px;
+    border: 1px solid lightgreen;
+    padding: 3px;
+}
+.ex-img-sb-ras
+{
+    border-radius: 40px 0 40px 0;
+    height: 180px;
+    border: 1px solid darkred;
+    padding: 3px;
+}
+.ex-img-sb-wie
+{
+    border-radius: 40px 0 40px 0;
+    height: 180px;
+    border: 1px solid darkorchid;
+    padding: 3px;
+}
+.ex-img-sb-ias
+{
+    border-radius: 40px 0 40px 0;
+    height: 180px;
+    border: 1px solid darkolivegreen;
+    padding: 3px;
 }
 
 .ex-head
@@ -241,6 +282,7 @@ body{
     top: 5px;
 
 }
+<<<<<<< HEAD
 .marginbtm-footer
 {
     margin-bottom: 0px;
@@ -248,3 +290,5 @@ body{
 .h{
     margin-left:25px;
 }
+=======
+>>>>>>> 81df112a32d6e7094f44b9583ebf9b789e3c1b80
