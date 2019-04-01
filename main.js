@@ -23,3 +23,9 @@ window.onload=function(){
     countme('member-count',256);
 }
 
+$(document).ready(function () {
+    $('.second-button').on('click', function () {
+  
+      $('.animated-icon2').toggleClass('open');
+    });
+  });
