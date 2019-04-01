@@ -16,6 +16,10 @@ body{
     
     
 }
+.home-margin-top
+{
+    margin-top: 50px;
+}
 .navbar
 {
     background: white;
@@ -35,7 +39,7 @@ body{
     }
     .home-margin-top
     {
-        margin-top: 80px;
+        margin-top: 120px;
     }
 } 
 @media only screen and (min-width: 992px) {
@@ -112,10 +116,7 @@ body{
     
     
 }
-.home-margin-top
-{
-    margin-top: 50px;
-}
+
 .height-adjust
 {
     height: 65px;
