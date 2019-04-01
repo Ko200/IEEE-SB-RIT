@@ -382,17 +382,8 @@ hr{
 .navbar-light .navbar-toggler {
     color: rgba(0,0,0,.5);
     border: none;
+    outline: none;
 }
         
-.navbar
-{
-    background: white;
-    border: none;
-}   
-
-.navbar-toggler
-{
-    border:none;
-}
-
-
+        
+    
