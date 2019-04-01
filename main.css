@@ -20,11 +20,10 @@ body{
 
 .navbar-margin-top
 {
-    margin-top: -15;
-   
-   
-
+    margin-top: -10px;
 }
+
+
 
 .marginleft-navbar
 {
@@ -245,7 +244,7 @@ hr{
 }
 .color-grey
 {
-    color: gray;
+    color:#808080;
 }
 .hr-inner-position
 {   position: relative;
