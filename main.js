@@ -17,6 +17,7 @@ var count=function (){
 count();
 }
 
+
 window.onload=function(){
     countme('event-count',100);
     countme('award-count',50);
