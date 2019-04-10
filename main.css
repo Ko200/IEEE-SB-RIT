@@ -126,7 +126,6 @@ body{
 
 .bg-img{
     background: url("./images/strength.jpg");
-    
     background-size: cover;
     background-position: 4px;
 }
