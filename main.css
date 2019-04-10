@@ -384,6 +384,7 @@ hr{
     border: none;
     outline: none;
 }
-        
-        
-    
+.card-text
+{   max-height: 200px;
+    overflow: hidden;
+}
