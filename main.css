@@ -406,7 +406,7 @@ hr{
 .score-card-bg{
     
     box-shadow: 3px 3px 5px gray;
-    height: 216px;
+    height: 215px;
 }
 @media only screen and (max-width: 600px) {
     .score-card-bg {
