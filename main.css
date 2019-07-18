@@ -417,6 +417,6 @@ hr{
   @media only screen and (max-width:400px) {
     .score-card-bg {
       background-color: lightblue;
-      height: 350px;
+      height: 351px;
     }
   }
