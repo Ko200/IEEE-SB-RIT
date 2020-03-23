@@ -8,13 +8,13 @@ body{
     color: gray;
     font-weight: bold;
     font-size: 1.2rem;
-    
+
 }
 
 .navbar-light .navbar-nav .nav-link:hover{
     color: blue;
-    
-    
+
+
 }
 .home-margin-top
 {
@@ -41,7 +41,7 @@ body{
     {
         margin-top: 115px;
     }
-} 
+}
 @media only screen and (min-width: 992px) {
     .navbar
     {
@@ -75,7 +75,7 @@ body{
     border:none;
     background-color: #fff;
     background-clip: padding-box;
-    
+
 }
 
 
@@ -109,12 +109,12 @@ body{
     color: white;
     border-radius: 40px;
     width: 200px;
-}    
+}
 .btn-joinieee:hover
 {
     color: white;
-    
-    
+
+
 }
 
 .height-adjust
@@ -127,6 +127,8 @@ body{
 .bg-img{
     background: url("./images/strength.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     background-position: 4px;
 }
 .our-strength
@@ -146,7 +148,7 @@ font-size: 3rem;
    color: red;
    font-weight: bolder;
    border-radius: 800px;
-  
+
    height: 120px;
    text-align: center;
 }
@@ -180,7 +182,7 @@ hr{
 .vsn-msn
 {
     height: 58px;
-    
+
 }
 .text-vsn-msn
 {
@@ -242,7 +244,7 @@ hr{
 .ex-head
 {
     font-size: 2rem;
-   
+
 }
 .society-head
 {
@@ -319,7 +321,7 @@ hr{
     transition: .5s ease-in-out;
     cursor: pointer;
     }
-    
+
     .animated-icon2 span{
     display: block;
     position: absolute;
@@ -345,7 +347,7 @@ hr{
  {
     top: 0px;
 }
-.animated-icon2 span:nth-child(2), .animated-icon2 span:nth-child(3) 
+.animated-icon2 span:nth-child(2), .animated-icon2 span:nth-child(3)
 {
     top: 10px;
 }
@@ -353,7 +355,7 @@ hr{
  {
     top: 20px;
 }
-.animated-icon2.open span:nth-child(1) 
+.animated-icon2.open span:nth-child(1)
 {
     top: 11px;
     width: 0%;
@@ -394,17 +396,17 @@ hr{
         height: 100px;
         border:1px solid #212529;
         padding: 3px;
- 
+
 }
 .score-round{
     border: 1px solid #212529;
     border-radius: 10px;
     width: 50px;
-   
+
     text-align: center;
 }
 .score-card-bg{
-    
+
     box-shadow: 3px 3px 5px gray;
     height: 215px;
 }
